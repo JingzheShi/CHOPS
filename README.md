@@ -7,7 +7,8 @@ Repository for the [[paper](https://arxiv.org/abs/2404.01343)]:
 
 **Abstract:** Businesses and software platforms are increasingly utilizing Large Language Models (LLMs) like GPT-3.5, GPT-4, GLM-3, and LLaMa-2 as chat assistants with file access or as reasoning agents for custom service. Current LLM-based customer service models exhibit limited integration with customer profiles and lack operational capabilities, while existing API integrations prioritize diversity over precision and error avoidance which are crucial in real-world scenarios for Customer Service. We propose an LLMs agent called **CHOPS** (**CH**at with cust**O**mer **P**rofile in existing **S**ystem) that: (1) efficiently utilizes existing databases or systems to access user information or interact with these systems based on existing guidance; (2) provides accurate and reasonable responses or executing required operations in the system while avoiding harmful operations; and (3) leverages the combination of small and large LLMs together to provide satisfying performance while having decent inference cost. We introduce a practical dataset, *CPHOS-dataset*, including a database, some guiding files, and QA pairs collected from *CPHOS*, which employs an online platform to facilitate the organization of simulated Physics Olympiads for high school teachers and students. We conduct extensive experiments to validate the performance of our proposed **CHOPS** architecture using the *CPHOS-dataset*, aiming to demonstrate how LLMs can enhance or serve as alternatives to human customer service.
 
-
+<!-- <img src="figures/pipeline.png" alt="pipeline" style="zoom: 25%;" /> -->
+![pipeline](figures/pipeline.png)
 
 This repository includes:
 
@@ -123,5 +124,8 @@ to run this experiment.
 
 We provide all .csv result files and .txt log files can be found in `result` dir and `log_*` dir.
 
-# Others
+# Results Measured
 
+![experiment result](figures/experiment_result.png)
+
+Please refer to the [[paper](https://arxiv.org/abs/2404.01343)] for more details.
