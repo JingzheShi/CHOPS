@@ -24,7 +24,7 @@ class BaseAgent():
                         f.write(prompt+'\n')
                     with open(self.output_to_log_file_output, 'a') as f:
                         f.write(llm_answer+'\n')
-                return self._get_answer(prompt)
+                return llm_answer
             except Exception as e:
                 print('Error in ask_llm',e)
                 print('Retrying...')
