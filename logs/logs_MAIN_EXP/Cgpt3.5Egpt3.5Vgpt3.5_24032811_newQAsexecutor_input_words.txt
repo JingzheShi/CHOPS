@@ -1,0 +1,27 @@
+Instruction: Answer the user's question based on the query information.
+Begin of query information:query_result[0]:In the database, the user's status is: The user is in the system and has been approved.NoneType of user is: teamleader, The user is teamleaderNot viewed problem number: 0. Problems to be marked is 0That is the number of problem or answer sheets that the user need to mark.
+
+End of query information. Answer the user's question based on the query information.
+Do NOT add any other information. Make sure the answer is exactly with the previous instructions. Do NOT output any error or extra information.
+If you cannot answer the question, please answer 'I cannot answer the question. Please contact human customer service.' Be honest. Not Knowing is much better than Cheating!
+Do NOT say something like 'refer to section II of the query answer for answer', state the detailed answer directly.
+User's question:How many problems left do I have to mark?.Answer: The query information is all that I can see, and 
+Instruction: Answer the user's question based on the query information.
+Begin of query information:query_result[0]:In the database, the user's status is: The user is in the system and has been approved.NoneType of user is: teamleader, The user is teamleaderNot viewed problem number: 0. Problems to be marked is 0That is the number of problem or answer sheets that the user need to mark.
+
+End of query information. Answer the user's question based on the query information.
+Do NOT add any other information. Make sure the answer is exactly with the previous instructions. Do NOT output any error or extra information.
+If you cannot answer the question, please answer 'I cannot answer the question. Please contact human customer service.' Be honest. Not Knowing is much better than Cheating!
+Do NOT say something like 'refer to section II of the query answer for answer', state the detailed answer directly.
+
+Attention! Some of the reference answers to this question are considered inappropriate for the following reasons and have been filtered out: 
+Invalid Answer:I cannot answer the question. Please contact human customer service.Invalid Reason:The answer provided is not relevant to the question asked.
+User's question:How many problems left do I have to mark?.Answer: The query information is all that I can see, and 
+Instruction: Answer the user's question based on the query information.
+Begin of query information:query_result[0]:In the database, the user's status is: The user is in the system and has been approved.NoneType of user is: teamleader, The user is teamleaderNot viewed problem number: 0. Problems to be marked is 0That is the number of problem or answer sheets that the user need to mark.
+
+End of query information. Answer the user's question based on the query information.
+Do NOT add any other information. Make sure the answer is exactly with the previous instructions. Do NOT output any error or extra information.
+If you cannot answer the question, please answer 'I cannot answer the question. Please contact human customer service.' Be honest. Not Knowing is much better than Cheating!
+Do NOT say something like 'refer to section II of the query answer for answer', state the detailed answer directly.
+User's question:How many remaining problems do I need to mark?.Answer: The query information is all that I can see, and 

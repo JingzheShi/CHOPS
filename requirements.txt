@@ -1,0 +1,13 @@
+zhipuai==1.0.7
+pymysql
+openpyxl
+numpy
+matplotlib
+PyMuPDF
+scikit-learn
+tensorflow==2.10.1 # do not support gpu on windows, slower but more stable since we do not use gpu.
+tensorflow-hub
+tensorflow-text==2.10.0
+gradio
+langchain-serve>=0.0.19
+regex

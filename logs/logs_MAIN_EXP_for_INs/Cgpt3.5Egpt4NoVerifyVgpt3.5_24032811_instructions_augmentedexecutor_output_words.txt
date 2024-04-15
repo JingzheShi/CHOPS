@@ -1,0 +1,210 @@
+Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants information about users in a specific school and provides school name
+Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants information about users of a specific school and provided the school name
+Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants information about users in a specific school and provided the school name
+Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants to know information about users within a specific school and provided school name
+Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,5|||Reason==user wants to complete application with provided name and marking subject
+Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,5|||Reason==user wants to complete the application with a specific marking subject provided
+Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,5|||Reason==user wants to complete their application and provided their name and marking subject.
+I cannot answer the question. Please contact human customer service.
+Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,5|||Reason==user wants to complete application and provided name and marking subject
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+I cannot answer the question. Please contact human customer service.
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+I cannot answer the question. Please contact human customer service.
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+I cannot answer the question. Please contact human customer service.
+I cannot make changes or actions. Please contact the appropriate department or system administrator for such requests.
+I cannot answer the question. Please contact human customer service.
+Operation==ChangeAllTypesMarkingSubject|||Args==8|||Reason==user wants to change marking subject and provide marking subject is 8
+I cannot answer the question. Please contact human customer service.
+Operation==ChangeAllTypesMarkingSubject|||Args==8|||Reason==user wants to change marking subject and provide marking subject is 8
+Operation==ChangeAllTypesMarkingSubject|||Args==8|||Reason==user wants to change marking subject and provide marking subject is 8
+Operation==ChangeAllTypesMarkingSubject|||Args==8|||Reason==user wants to change marking subject and provide marking subject is 8
+Operation==ChangeAllTypesMarkingSubject|||Args==?|||Reason==user wants to change marking subject but did not provide its marking subject
+Operation==ChangeAllTypesMarkingSubject|||Args==?|||Reason==user wants to change marking subject but did not provide its marking subject
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==user wants to change marking subject but did not provide its marking subject
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+Operation==?|||Args==?|||Reason==user wants to change the problem index they view but did not provide a specific index.
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==user wants to change viewing problem index but there is no operation matching this request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==user wants to change viewing problem but did not specify what to change it to
+Operation==ChangeAllTypesMarkingSubject|||Args==9|||Reason==user wants to change marking subject and provide marking subject is 9
+Operation==ChangeAllTypesMarkingSubject|||Args==9|||Reason==user wants to change marking subject and provide marking subject is 9
+I cannot answer the question. Please contact human customer service.
+Operation==ChangeAllTypesMarkingSubject|||Args==9|||Reason==user wants to change marking subject and provide marking subject is 9
+Operation==ChangeAllTypesMarkingSubject|||Args==9|||Reason==user wants to change marking subject and provide marking subject is 9
+I cannot answer the question. Please contact human customer service.
+Operation==ChangeAllTypesMarkingSubject|||Args==9|||Reason==user wants to change marking subject and provide marking subject is 9
+Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change role to arbiter
+Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to be made an arbiter
+I cannot answer the question. Please contact human customer service.
+Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to be an arbiter
+Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to modify profile to become an arbiter
+Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change to be an arbiter
+based on that, you are already an arbiter.
+based on that, you are already an arbiter.
+Operation==?|||Args==?|||Reason==user is already an arbiter, cannot execute command.
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+based on that information, you are already listed as an arbiter in the system.
+according to it, you are already listed as an arbiter.
+Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to modify their profile to be an arbiter
+according to it, you are already a team leader.
+you are already a team leader.
+Operation==?|||Args==?|||Reason==user is already a team leader, cannot execute command.
+according to it, you are already a team leader.
+Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to become a team leader
+Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to become a team leader
+Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to be a team leader
+according to that, you are already a team leader.
+Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to be a team leader
+according to it, you are already a team leader.
+I cannot answer the question. Please contact human customer service.
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to modify profile to be a team leader
+Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to change to be a team leader
+according to it, you are already a team leader.
+I cannot answer the question. Please contact human customer service.
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==user is already a team leader, cannot execute command.
+Operation==?|||Args==?|||Reason==user is already a team leader, cannot execute command.
+based on that, you are already a team leader.
+Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to become a team leader
+according to it, you are already listed as a team leader.
+I cannot modify profiles.
+Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change into a vice team leader and provided the team leader name
+Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to be vice team leader of another particular team leader and provided team leader name is name2258317
+Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to be vice team leader and provided name of the team leader.
+Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change into a vice team leader of the teacher called name2258317
+Operation==MakeAllTypesToBeSubCoach|||Args==name7546895|||Reason==user wants to change to be vice team leader and provided the team leader name
+Operation==MakeAllTypesToBeSubCoach|||Args==name7546895|||Reason==user wants to be changed into a vice team leader and provided the team leader's name as name7546895
+Operation==MakeAllTypesToBeSubCoach|||Args==name7546895|||Reason==user wants to change to be vice team leader and provided the name of the team leader
+Operation==MakeAllTypesToBeSubCoach|||Args==name7546895|||Reason==user wants to change to be a vice team leader and provided the name of the team leader
+Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to vice team leader of another teacher and provided the teacher's name
+I cannot answer the question. Please contact human customer service.
+Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to vice team leader of the teacher whose name is name2258317
+I cannot answer the question. Please contact human customer service.
+Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to become a vice team leader of another particular team leader with the name provided
+I cannot answer the question. Please contact human customer service.
+it shows you are already a vice_teamleader.
+Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to be a vice team leader of the teacher called name2258317
+Operation==ChangeAllTypesUploadLimit|||Args==50|||Reason==user wants to change upload limit and provide upload limit is 50
+Operation==ChangeAllTypesUploadLimit|||Args==50|||Reason==user wants to change upload limit and provide upload limit is 50
+Operation==ChangeAllTypesUploadLimit|||Args==50|||Reason==user wants to change upload limit and provide upload limit is 50
+Operation==ChangeAllTypesUploadLimit|||Args==50|||Reason==user wants to change upload limit and provide upload limit is 50
+Operation==ChangeAllTypesUploadLimit|||Args==114514|||Reason==user wants to change upload limit and provide upload limit is 114514
+Operation==ChangeAllTypesUploadLimit|||Args==114514|||Reason==user wants to change upload limit and provide limit is 114514
+I cannot answer the question. Please contact human customer service.
+Operation==ChangeAllTypesUploadLimit|||Args==114514|||Reason==user wants to change upload limit and provide upload limit is 114514
+Operation==ChangeAllTypesSchool|||Args==schoolname954082|||Reason==user wants to change school and provided school name as schoolname954082
+Operation==ChangeAllTypesSchool|||Args==schoolname954082|||Reason==user wants to change school and provided school name is schoolname954082
+Operation==ChangeAllTypesSchool|||Args==schoolname954082|||Reason==user wants to change school profile and provided school name is schoolname954082
+Operation==ChangeAllTypesSchool|||Args==schoolname954082|||Reason==user wants to change school and provided school name is schoolname954082
+Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school and provided school name and area name
+Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school and provided school name and area name.
+Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school and provide school name and area name
+Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school by name and provide school name and area name
+Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school and provided school name and area name
+Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school and provided school name and area name
+I cannot answer the question. Please contact human customer service.
+Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school and provided school name and area name
+Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school and provided school name and area name
+Operation==AddNewSchoolByName|||Args==MyNewSchool,?|||Reason==user wants to add a new school but did not provide area name.
+Operation==AddNewSchoolByName|||Args==MyNewSchool,?|||Reason==user wants to add a new school but did not provide area name.
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==AddNewSchoolByName|||Args==MyNewSchool,?|||Reason==user wants to add a new school but did not provide area name.
+Operation==AddNewSchoolByName|||Args==MyNewSchool,?|||Reason==user wants to add a new school but did not provide area name.
+Operation==AddNewSchoolByName|||Args==MyNewSchool,?|||Reason==user wants to add a new school but did not provide area name.
+Operation==?|||Args==?|||Reason==user wants to add a new school but did not provide school name or area name.
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==AddNewSchoolByName|||Args==MyNewSchool,?|||Reason==user wants to add a new school but did not provide area name.
+Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user wants to know information about users called Andy
+Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user wants to know information about users whose name is Andy
+it does not contain any information about Andy.
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user wants to get information about users called Andy
+Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user wants to get information about users whose name is Andy
+it does not mention anyone named Andy.
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user wants to get information about Andy, a user in the system
+Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user wants to get information about Andy
+Operation==GetTeacherInfoByName|||Args==Bob|||Reason==user wants to get information about users called Bob
+Operation==GetTeacherInfoByName|||Args==Bob|||Reason==user wants to get information about users whose name is Bob
+it does not mention any user by the name of Bob.
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+Operation==GetTeacherInfoByName|||Args==Bob|||Reason==user wants to get information about Bob
+Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants to know information about users in the school and provides school name
+Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants to know information about users of a specific school and provided school name
+Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants to know information about users in a specific school
+Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants to get information about users within a specific school
+Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change to an arbiter
+according to it, you are already an arbiter.
+Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to be an arbiter
+based on it, you are already an arbiter.
+Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to be an arbiter
+based on that, your profile is already set as an arbiter.
+Operation==?|||Args==?|||Reason==user is already an arbiter, cannot execute command.
+Operation==?|||Args==?|||Reason==user is already an arbiter, so modifying the profile to the same status is not necessary.
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==user is already an arbiter, so modifying the profile to the same status is not necessary.
+Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to be a vice team leader and provided the name of the team leader
+I cannot answer the question. Please contact human customer service.
+Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change into a vice team leader of the specified teacher
+Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change into a vice team leader of the teacher with name name2258317
+I cannot answer the question. Please contact human customer service.
+according to it, you are already a vice_teamleader.
+Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to be a vice team leader of the teacher called name2258317
+I cannot answer the question. Please contact human customer service.
+Operation==ChangeAllTypesMarkingSubject|||Args==11|||Reason==user wants to change marking subject and provide marking subject is 11
+Operation==ChangeAllTypesMarkingSubject|||Args==12|||Reason==user wants to change marking subject and provide marking subject is 12
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==ChangeAllTypesMarkingSubject|||Args==12|||Reason==user wants to change marking subject and provide marking subject is 12
+I cannot answer the question. Please contact human customer service.
+Operation==ChangeAllTypesMarkingSubject|||Args==11|||Reason==user wants to change marking subject and provide marking subject is 11

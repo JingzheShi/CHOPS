@@ -1,0 +1,122 @@
+GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants to get information about users in a specific school.
+Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants to get information about users of a specific school.
+GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants information about users in a specific school
+?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+VerifyTeacherUserToBeSupTeacher|||Args==Name240393,5|||Reason==user wants to complete application and set marking subject to 5
+VerifyTeacherUserToBeSupTeacher|||Args==Name240393,5|||Reason==user wants to complete the approval process and set the marking subject to 5
+VerifyTeacherUserToBeSupTeacher|||Args==Name240393,5|||Reason==user wants to complete application with specified name and marking subject
+ChangeAllTypesMarkingSubject|||Args==5|||Reason==user wants to change marking subject to 5.
+VerifyTeacherUserToBeSupTeacher|||Args==Name240393,?|||Reason==user wants to complete the approval process for the user with the username Name240393
+Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,?|||Reason==user wants to complete the approval process by providing username
+VerifyTeacherUserToBeSupTeacher|||Args==Name240393,?|||Reason==user wants to complete the approval process by providing username
+I cannot answer the question. Please contact human customer service.
+VerifyTeacherUserToBeSupTeacher|||Args==Name240393,?|||Reason==user wants to complete the approval process by becoming a team leader.
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,0|||Reason==user wants to complete the approval application with the given name and marking subject index
+Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,?|||Reason==user wants to complete the approval process for the user with the username Name240393.
+?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,?|||Reason==user wants to complete the approval process by providing their username.
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+VerifyTeacherUserToBeSupTeacher|||Args==Name240393,?|||Reason==user wants to complete the approval process by becoming a team leader
+VerifyTeacherUserToBeSupTeacher|||Args==Name240393,?|||Reason==user wants to complete the approval process by becoming a team leader
+ChangeAllTypesMarkingSubject|||Args==8|||Reason==user wants to change marking subject and provide marking subject is 8
+ChangeAllTypesMarkingSubject|||Args==8|||Reason==user wants to change marking subject to 8
+ChangeAllTypesMarkingSubject|||Args==8|||Reason==user wants to change marking subject and provide marking subject is 8
+ChangeAllTypesMarkingSubject|||Args==8|||Reason==user wants to change marking subject and provide marking subject is 8
+Operation==ChangeAllTypesMarkingSubject|||Args==?|||Reason==user wants to change marking subject but did not provide its marking subject
+ChangeAllTypesMarkingSubject|||Args==?|||Reason==user wants to change marking subject but did not provide its marking subject
+Operation==ChangeAllTypesMarkingSubject|||Args==?|||Reason==user wants to change marking subject but did not provide its marking subject
+Operation==ChangeAllTypesMarkingSubject|||Args==?|||Reason==user wants to change marking subject but did not provide its marking subject
+based on the information provided, it does not specify how to change the marking subject into 9. Therefore, I cannot provide a direct answer. Please contact human customer service for further assistance.
+Operation==ChangeAllTypesMarkingSubject|||Args==9|||Reason==user wants to change marking subject and provide marking subject is 9
+ChangeAllTypesMarkingSubject|||Args==9|||Reason==user wants to change marking subject and provide marking subject is 9
+ChangeAllTypesMarkingSubject|||Args==9|||Reason==user wants to change marking subject and provide marking subject is 9
+ChangeAllTypesMarkingSubject|||Args==9|||Reason==user wants to change marking subject to 9
+MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change user type to arbiter
+MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change user type to arbiter
+MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change to be an arbiter
+MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change their profile to be an arbiter
+MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change user type to be an arbiter
+MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change user type to arbiter
+MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change to be an arbiter
+MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change their profile to be an arbiter
+MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to change user type to team leader
+MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to become a team leader
+MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to be a team leader
+MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to change their profile to be a team leader
+MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to change user type to team leader
+MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to be made a team leader.
+MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to become a team leader
+Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to change their profile to be a team leader
+MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to be vice team leader of the teacher named name2258317
+MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to be vice team leader of a teacher with the name name2258317
+MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to be a vice team leader of the teacher with the name name2258317
+MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to become vice team leader of teacher named name2258317
+MakeAllTypesToBeSubCoach|||Args==name7546895|||Reason==user wants to be vice team leader of the teacher named name7546895
+MakeAllTypesToBeSubCoach|||Args==name7546895|||Reason==user wants to be vice team leader of the teacher named name7546895
+MakeAllTypesToBeSubCoach|||Args==name7546895|||Reason==user wants to be vice team leader of the teacher with name name7546895
+MakeAllTypesToBeSubCoach|||Args==name7546895|||Reason==user wants to be a vice team leader of the teacher named name7546895
+MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to become vice team leader of the teacher named name2258317
+MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to be a vice team leader of the teacher named name2258317
+MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to be a vice team leader of the teacher with name name2258317
+MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to be vice team leader of the teacher called name2258317
+ChangeAllTypesUploadLimit|||Args==50|||Reason==user wants to change upload limit to 50
+ChangeAllTypesUploadLimit|||Args==50|||Reason==user wants to change upload limit to 50.
+ChangeAllTypesUploadLimit|||Args==50|||Reason==user wants to change upload limit to 50
+ChangeAllTypesUploadLimit|||Args==50|||Reason==user wants to modify upload limit to 50
+ChangeAllTypesUploadLimit|||Args==114514|||Reason==user wants to change upload limit and provide upload limit as 114514
+ChangeAllTypesUploadLimit|||Args==114514|||Reason==user wants to change upload limit to be able to upload 114514 answer sheets at a time
+ChangeAllTypesUploadLimit|||Args==114514|||Reason==user wants to change upload limit to 114514
+ChangeAllTypesUploadLimit|||Args==114514|||Reason==user wants to modify upload limit to 114514
+ChangeAllTypesSchool|||Args==schoolname954082|||Reason==user wants to change school to schoolname954082
+ChangeAllTypesSchool|||Args==schoolname954082|||Reason==user wants to change school to schoolname954082
+ChangeAllTypesSchool|||Args==schoolname954082|||Reason==user wants to change their school profile to schoolname954082
+ChangeAllTypesSchool|||Args==schoolname954082|||Reason==user wants to change their school to schoolname954082
+AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school called MyNewSchool in the area Tokyo
+I cannot answer the question. Please contact human customer service.
+AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school called MyNewSchool in Tokyo
+AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school in Tokyo with the school name MyNewSchool
+AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school called MyNewSchool in the area Tokyo
+AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school called MyNewSchool in Tokyo
+AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school called MyNewSchool in Tokyo
+AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school called MyNewSchool in Tokyo.
+AddNewSchoolByName|||Args==MyNewSchool,?|||Reason==user wants to add a new school but did not provide area name.
+AddNewSchoolByName|||Args==MyNewSchool,?|||Reason==user wants to add a new school but did not provide area name.
+AddNewSchoolByName|||Args==MyNewSchool,?|||Reason==user wants to add a new school but did not provide area name.
+AddNewSchoolByName|||Args==MyNewSchool,?|||Reason==user wants to add a new school but did not provide area name.
+GetTeacherInfoByName|||Args==Andy|||Reason==user wants to get information about a user named Andy
+GetTeacherInfoByName|||Args==Andy|||Reason==user wants to get information about a user with the name Andy.
+GetTeacherInfoByName|||Args==Andy|||Reason==user wants to get information about a user by the name Andy
+Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user wants to get information about a teacher named Andy
+GetTeacherInfoByName|||Args==Andy|||Reason==user wants to get information about a user named Andy
+GetTeacherInfoByName|||Args==Andy|||Reason==user wants to get information about a user with the name Andy
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+I cannot answer the question. Please contact human customer service.
+I cannot provide any specific information about Andy as a user in the system.
+I cannot provide specific information about Andy as a user in the system. Please contact human customer service for further assistance.
+GetTeacherInfoByName|||Args==Andy|||Reason==user wants to get information about teacher named Andy
+GetTeacherInfoByName|||Args==Bob|||Reason==user wants to get information about a user named Bob
+GetTeacherInfoByName|||Args==Bob|||Reason==user wants to get information about a user with the name Bob
+GetTeacherInfoByName|||Args==Bob|||Reason==user wants to get information about a user named Bob
+Operation==GetTeacherInfoByName|||Args==Bob|||Reason==user wants to get information about a teacher named Bob
+GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants to get information about users in the school "schoolname344263"
+Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants to get information about users of a specific school.
+GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants to get information about users in a specific school
+Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants to get information about users within a specific school.
+MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change user type to arbiter
+MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change user to be arbiter
+MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to be changed to arbiter.
+I cannot modify your profile to make you an arbiter. Please contact the relevant authorities for assistance.
+Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change their profile to be an arbiter
+MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to become vice team leader of the teacher named name2258317
+MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to be a vice team leader of the teacher named name2258317
+MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to be vice team leader of the teacher with name name2258317
+MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to be a vice team leader of the teacher named name2258317
+ChangeAllTypesMarkingSubject|||Args==11|||Reason==user wants to change marking subject and provide marking subject is 11
+ChangeAllTypesMarkingSubject|||Args==12|||Reason==user wants to change marking subject and provide marking subject is 12
+Operation==ChangeAllTypesMarkingSubject|||Args==12|||Reason==user wants to change marking subject and provide marking subject is 12
+ChangeAllTypesMarkingSubject|||Args==11|||Reason==user wants to change marking subject to 11

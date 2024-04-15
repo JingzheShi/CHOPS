@@ -1,0 +1,4 @@
+INVALID,2|||The answer provided is not relevant to the question asked.
+VALID,10|||The answer is based on the knowledge known by the executor, providing the exact number of problem or answer sheets that need to be marked.
+The number of problems or answer sheets left to mark is 0.
+VALID,8|||The question is asking for the number of remaining problems to mark, and the answer provided is the number of remaining problems the user needs to mark, which is based on the knowledge known by the executor.

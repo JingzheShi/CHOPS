@@ -1,0 +1,138 @@
+Answer|||Answer==The user has 0 problems left to mark.
+Answer|||Answer==0
+Answer|||Answer==The user has 0 unmarked problems left to be marked.
+Answer|||Answer==The number of unviewed problems left for you is 0.
+Answer|||Answer==There are 0 problems or answer sheets that you need to mark.
+Answer|||Answer==For adding students, refer to the mini-program user guide for detailed student addition methods: 
+1. Click "My" -> "Candidate Information"
+2. Click "Add Candidate" and enter the required student information
+3. Upload the student's photo for identification
+4. Repeat steps 3 to 5 until all photos for every question for the student have been chosen or taken
+5. Click "Submit" at the bottom of the page to ensure all student answers are successfully submitted. Check that all answer sheets have been correctly uploaded before submission.
+Answer: TYPE==Answer|||Answer==For adding students, you can refer to the mini-program user guide for detailed instructions. Click "My" -> "Candidate Information" -> "Add Candidate" and follow the steps to enter student information. Remember to carefully check and submit all the required information.
+Instruction|||Operation==None|||Args==None|||Reason==I cannot answer the question. Please contact human customer service.
+Instruction|||Operation==GetTeacherInfoByName|||Args==AddStudent|||Reason==User wants to know how to add students, so they need to get information on how to do it by providing the teacher's name "AddStudent" to retrieve the necessary instructions.
+the operation to change the marking subject to 7 was successfully executed with no issues.
+Answer|||Answer==For adding students, follow these steps:
+1. Click "My" -> "Candidate Information"
+2. Click "Add Candidate"
+3. Enter the student's name, grade, and historical awards
+4. Click "Confirm"
+5. Repeat steps 3-4 for all student information
+6. To modify or delete student information, click "Edit" or "Delete" next to the candidate information.
+Answer|||Answer==Our exams are completely free to participate in. Please follow our CPHOS official public account or visit the CPHOS official website to view the registration-related information.
+Answer: TYPE==Answer|||Answer==Our exams are completely free to participate in. Please follow our CPHOS official public account or visit the CPHOS official website to view the registration-related information.
+Answer|||Answer==Our exams are completely free to participate in. Please follow our CPHOS official public account or visit the CPHOS official website to view the registration-related information.
+Answer|||Answer==Our exams are completely free to participate in. Please follow our CPHOS official public account or visit the CPHOS official website to view the registration-related information.
+Instruction|||Operation==ChangeAllTypesUploadLimit|||Args==Increase upload limit|||Reason==User needs to increase their upload limit to be able to upload answer sheets.
+Answer: TYPE==Answer|||Answer==The user is 'not in the system' and has not been approved, which is preventing them from uploading answer sheets. The user must be approved before being able to submit any operations related to uploading answer sheets.
+Operation|||Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the user's request
+Answer|||Answer==Once the time limit has passed, you can no longer upload the exam paper. Please complete the upload within the specified time. If there are special circumstances, please consult customer service and contact the CPHOS technical team promptly.
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+the operation failed because the user is not currently in the system.
+Answer|||Answer==The user is a team leader.
+Answer|||Answer==The user is classified as a team leader in the system.
+Answer|||Answer==The user is a team leader.
+Answer|||Answer==The user is identified as a team leader in the system.
+Answer|||Answer==The user is a team leader.
+Answer: TYPE==Answer|||Answer==The user's role in the system is arbiter.
+Answer|||Answer==The user is identified in the system as an arbiter.
+Answer|||Answer==The user is arbiter.
+Answer|||Answer==The user is categorized as an arbiter in the system.
+Answer|||Answer==The user's classification in the system is arbiter.
+Answer|||Answer==The user is vice_teamleader
+Answer|||Answer==The user's role in the system is vice_teamleader.
+Answer|||Answer==You are identified in the system as a vice_teamleader.
+Answer|||Answer==The user is vice_teamleader
+Answer|||Position in the system: Vice Team Leader.
+Answer|||Answer==Yes, you are a Team Leader in the system.
+Answer|||Answer==No, you are designated as the vice team leader in the system.
+Answer|||Answer==Yes, the system is recognizing you as the team leader.
+Answer|||Answer==No, you hold the position of vice team leader in the system.
+Answer|||Answer==The user is a Vice Team Leader User in the system.
+Answer|||Answer==If you can't unzip the exam paper, you can download a software called 7zip to open
+Answer|||Answer==If you can't unzip the exam paper, you can download a software called 7zip to open
+Answer|||Answer==If you can't unzip the exam paper, you can download a software called 7zip to open
+Answer|||Answer==If the student information is inaccurate, the user can open the official CPHOS mini-program, click "My" -> "Candidate Information" -> "Edit" to change the student information.
+Answer|||In case of incorrect student information, you can open the official CPHOS mini-program, click "My" -> "Candidate Information" -> "Edit" to change the student information.
+Answer|||Answer==If student information is displayed incorrectly, you can open the official CPHOS mini-program, click "My" -> "Candidate Information" -> "Edit" to change the student information.
+Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==Subject Index|||Reason==user wants to change marking subject and provide marking subject index.
+the operation to change the marking subject to 7 was executed successfully.
+Answer|||Answer==If student information is not accurate, the next course of action should be to open the official CPHOS mini-program, click "My" -> "Candidate Information" -> "Edit" to correct the student information.
+Instruction|||Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Answer|||Answer==Q: Can I upload the exam paper after the time limit has passed? A: Once the time limit has passed, you can no longer upload the exam paper. Please complete the upload within the specified time. If there are special circumstances, please consult customer service and contact the CPHOS technical team promptly.
+Answer|||Answer==No, answer sheets cannot be uploaded after the deadline. It is important to complete the upload within the specified time. If there are special circumstances, please consult customer service and contact the CPHOS technical team promptly.
+Answer|||Answer==Once the time limit has passed, you can no longer upload the exam paper. Please complete the upload within the specified time. If there are special circumstances, please consult customer service and contact the CPHOS technical team promptly.
+Answer|||Answer==The number of problem or answer sheets that the user needs to mark is 0.
+Answer|||Answer==The user needs to mark 0 more problems.
+Answer|||Answer==There are currently 0 unmarked problems left for you.
+Answer|||Answer==The number of unviewed problems left for you is 0.
+Answer|||Answer==The number of problems or answer sheets that the user needs to mark is 0.
+Answer|||Answer==For adding students, please refer to the mini-program user guide for detailed instructions. You can follow these steps: 
+1. Click "My" -> "Candidate Information"
+2. Click "Add Candidate"
+3. Enter the student's information such as name, grade, historical awards, etc.
+4. Repeat the above steps for each student you want to add.
+5. If you need to modify or delete student information, you can do so by clicking "Edit" or "Delete" next to the candidate information.
+Answer|||Answer==For adding students, refer to the mini-program user guide for detailed instructions: 
+1. Click "My" -> "Candidate Information".
+2. Click "Add Candidate" and enter the necessary student information.
+3. Repeat the process for each student by following the steps provided.
+4. Ensure all student information is correctly entered before submitting.
+Answer|||Answer==For adding students, follow these steps:
+1. Click "My" -> "Candidate Information" in the mini-program.
+2. Click "Add Candidate" to enter student information.
+3. Enter the student's name, grade, historical awards, and click "Confirm".
+4. Repeat step 3 for all student information.
+5. To modify or delete student information, click "Edit" or "Delete" next to the candidate information.
+the operation failed because the necessary arguments were not provided.
+Instruction|||Operation==GetTeacherInfoByName|||Args==AddCandidate|||Reason==User wants to know how to add students and needs to check the detailed instructions on how to do it.
+the operation failed because the user is not an admin and does not have the proper authorization to view information in the system.
+Answer|||Answer==For adding students, you can follow these steps:
+1. Click "My" -> "Candidate Information" in the mini-program.
+2. Click "Add Candidate" to enter the student's name, grade, and historical awards.
+3. Repeat this process for all students you need to add.
+4. If you need to modify or delete student information, click "Edit" or "Delete" next to the candidate information.
+Answer|||Answer==Our exams are completely free to participate in. Please follow our CPHOS official public account or visit the CPHOS official website to view the registration-related information.
+Answer|||Answer==Our exams are completely free to participate in. Please follow our CPHOS official public account or visit the CPHOS official website to view the registration-related information.
+Answer|||Answer==Our exams are completely free to participate in. Please follow our CPHOS official public account or visit the CPHOS official website to view the registration-related information.
+Answer|||Answer==Our exams are completely free to participate in. Please follow our CPHOS official public account or visit the CPHOS official website to view the registration-related information.
+Answer: TYPE==Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==7|||Reason==user wants to change marking subject and provide marking subject is 7
+the operation failed because you are not currently registered in the system.
+Answer: TYPE==Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==7|||Reason==user wants to change marking subject and provide marking subject is 7
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Answer|||Answer==Once the time limit has passed, you can no longer upload the exam paper. Please complete the upload within the specified time. If there are special circumstances, please consult customer service and contact the CPHOS technical team promptly.
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Answer|||Answer==The user is a teamleader.
+Answer|||Answer==The user is classified as a team leader in the system.
+Answer|||Answer==The user is a team leader.
+Answer|||Answer==In the system, you are identified as a team leader.
+Answer|||Answer==The user's designation within the system is a team leader.
+Answer|||Answer==The user's role in the system is arbiter.
+Answer|||Answer==In the system, you are identified as an arbiter.
+Answer|||Answer==The user is arbiter
+Answer|||Answer==In the database, the user's status is: The user is in the system and has been approved. Type of user is arbiter.
+Answer|||Classification==arbiter
+Answer|||Answer==The user is vice_teamleader
+Answer|||Answer==Your role in the system is a Vice Team Leader.
+Answer|||Answer==You are identified as a vice_teamleader in the system.
+Answer|||Answer==The user is vice_teamleader
+Answer|||Position==The user is a vice_teamleader in the system.
+Answer|||Answer==Yes, you are a team leader in the system.
+Answer|||Answer==No, you are currently designated as the vice team leader in the system.
+Answer|||Answer==Yes, the system recognizes you as the team leader.
+Answer|||Answer==No, you hold the position of Vice Team Leader in the system.
+Answer|||Answer==No, you have been assigned as the Vice Team Leader in the system.
+Answer|||Answer==If you can't unzip the exam paper, you can download a software called 7zip to open
+Answer|||Answer==If you can't unzip the exam paper, you can download a software called 7zip to open
+Answer|||Answer==If you can't unzip the exam paper, you can download a software called 7zip to open
+Answer|||Answer==If you find that the student information is displayed incorrectly, you can open the official CPHOS mini-program, click "My" -> "Candidate Information" -> "Edit" to change the student information.
+Answer|||Answer==If incorrect student information is displayed, you can open the official CPHOS mini-program, click "My" -> "Candidate Information" -> "Edit" to change the student information.
+Answer|||Answer==If student information is displayed incorrectly, you can open the official CPHOS mini-program, click "My" -> "Candidate Information" -> "Edit" to correct the student information.
+Instruction|||Operation==ChangeAllTypesSchool|||Args==SchoolName|||Reason==user needs to change the school name in case of errors in student information
+the operation failed because the arguments provided were not complete.
+Answer|||Answer==If student information is not accurate, the next course of action should be to open the official CPHOS mini-program, click on "My" -> "Candidate Information" -> "Edit" to make the necessary changes to the student information.
+Answer: TYPE==Answer|||Answer==Once the time limit has passed, you can no longer upload the exam paper. Please complete the upload within the specified time. If there are special circumstances, please consult customer service and contact the CPHOS technical team promptly.
+Answer|||Answer==A: Once the time limit has passed, you can no longer upload the exam paper. Please complete the upload within the specified time. If there are special circumstances, please consult customer service and contact the CPHOS technical team promptly.
+Answer|||Answer==Once the time limit has passed, you can no longer upload the exam paper. Please complete the upload within the specified time. If there are special circumstances, please consult customer service and contact the CPHOS technical team promptly.
+Answer|||Answer==Once the time limit has passed, you can no longer upload the exam paper. Please complete the upload within the specified time. If there are special circumstances, please consult customer service and contact the CPHOS technical team promptly.

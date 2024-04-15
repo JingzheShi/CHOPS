@@ -1,0 +1,5 @@
+localhost
+3306
+root
+CPHOS_dataset_2
+BaOyy95GG6OC

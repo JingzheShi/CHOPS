@@ -1,0 +1,201 @@
+Instruction|||Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants information about users in the school named schoolname344263
+the information for the teacher from the specified school (school ID 96) has been successfully retrieved. The teacher is a team leader with the ID 1786, has a WeChat nickname 'nickname3487828', and a user name 'name7736854'. This teacher has an upload limit of 100 and is viewing problem number 5.
+Instruction|||Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants to know about users of a specific school and provided the school name as schoolname344263
+the information retrieved successfully shows a user associated with the specified school, identified as a team leader, with the ID 1786 and the user name 'name7736854'.
+Instruction|||Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants information about users who are in the school named schoolname344263
+the information about the teacher at the school named schoolname344263 has been successfully retrieved. The teacher's ID is 1786, they are identified as a team leader, with a nickname of 'nickname3487828', and a user name of 'name7736854'. They are associated with school ID 96, have an upload limit of 100, and a viewing problem count of 5.
+Instruction|||Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants to know information about users within a specific school named schoolname344263
+the information retrieved for the school named "schoolname344263" includes details of a team leader with the ID 1786, who has a WeChat nickname "nickname3487828", a user name "name7736854", is associated with school ID 96, has an upload limit of 100, and is viewing 5 problems.
+Instruction|||Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,5|||Reason==user wants to complete the application with name Name240393 and marking subject 5
+In short, the operation to verify you as a Super Teacher for your specified marking subject was completed successfully.
+Instruction|||Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,5|||Reason==user wants to complete their application with marking subject 5.
+In short, the operation to verify the user as a supplementary teacher for the application named Name240393 with subject marking 5 was successful.
+Instruction|||Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,5|||Reason==user wants to complete their application with specified name and marking subject
+your request to verify as a Sup Teacher has been successfully processed.
+Instruction|||Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,5|||Reason==user wants to complete their application with name Name240393 and marking subject 5
+Your request to verify as a supplementary teacher has been successfully processed.
+Instruction|||Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,0|||Reason==user wants to complete their application and provided their name as Name240393.
+Instruction|||Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,None|||Reason==user wants to complete application with name Name240393.
+The operation failed because the marking subject value provided (0) must be within the range of [1,2,3,4,5,6,7,8,9,10].
+Instruction|||Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,0|||Reason==user requests to complete their application and provided their name.
+the operation failed because the marking subject must be a number within the range of 1 to 10, and the provided value was outside this range.
+Instruction|||Operation==VerifyTeacherUserToBeSupTeacher|||Args==Name240393,0|||Reason==user wants to complete application and provided their name.
+The operation failed because the marking subject number must be within the range of [1,2,3,4,5,6,7,8,9,10], and the provided value was 0, which is outside of this accepted range.
+Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==8|||Reason==user wants to change marking subject and provide marking subject is 8
+the operation failed because the user has not finished correcting the test papers.
+Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==8|||Reason==user wants to change marking subject and provide marking subject is 8
+The operation failed because the user has not finished correcting the test papers.
+Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==8|||Reason==user wants to change marking subject and provide marking subject is 8
+the operation failed because the user has not finished correcting the test papers.
+Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==8|||Reason==user wants to change viewing problem and provided viewing problem is 8
+The operation failed because the user has not finished correcting the test papers.
+Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==?|||Reason==user wants to change marking subject but did not provide its marking subject
+Operation==?|||Args==?|||Reason==user wants to change marking subject but did not provide its marking subject
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+Operation==?|||Args==?|||Reason==there are no executable commands that satisfy the users' request
+The operation failed because the command argument is not complete; the viewing problem index needed for the change was not provided.
+Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==9|||Reason==user wants to change marking subject and provide marking subject is 9
+the operation to change the marking subject to 9 was executed successfully.
+Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==9|||Reason==user wants to change marking subject and provide marking subject is 9
+The marking subject change to 9 was successful.
+Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==9|||Reason==user wants to change marking subject and provide marking subject is 9
+the viewing problem number has been successfully changed to 9.
+Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==9|||Reason==user wants to change marking subject and provided marking subject is 9
+The command to change the marking subject to 9 was executed successfully.
+Instruction|||Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change role to an arbiter
+The operation failed because the user has not finished correcting the test papers.
+Instruction|||Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to be changed to an arbiter
+The operation failed because the user has not finished correcting the test papers.
+Instruction|||Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change role to arbiter
+The operation failed because the user has not finished correcting the test papers.
+Instruction|||Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to be changed to an arbiter
+The operation failed because the user has not finished correcting the test papers.
+Instruction|||Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change to be an arbiter
+the operation to change your role to arbiter was executed successfully.
+Instruction|||Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change to be an arbiter
+your status has been successfully changed to arbiter.
+Instruction|||Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change their role to be an arbiter
+your request to change your role to be an arbiter has been successfully executed.
+Instruction|||Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change their profile to be an arbiter
+Your profile has been successfully changed to an arbiter.
+Instruction|||Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to change to be a team leader
+the command to change to a team leader has been successfully executed.
+Instruction|||Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to be changed to a team leader
+your request to be changed to a team leader has been successfully processed.
+Instruction|||Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to be a team leader
+The command to change to be a team leader was executed successfully.
+Instruction|||Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to modify profile to become a team leader
+Your profile has been successfully modified to become a team leader.
+Instruction|||Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to change to be a team leader
+The command to change to be a team leader was executed successfully.
+Instruction|||Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to be a team leader
+the command to assign you as a team leader has been executed successfully.
+Instruction|||Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to change to be a team leader
+your request to become a team leader has been successfully processed.
+Instruction|||Operation==MakeAllTypesToBeSupTeacher|||Args==None|||Reason==user wants to modify profile to become a team leader
+your profile has been successfully modified to be a team leader.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change role to vice team leader of the teacher named name2258317
+The operation failed because the user has not finished correcting the test papers.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to be vice team leader of another particular team leader whose name is provided
+The operation failed because the user has not finished correcting the test papers.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to become a vice team leader of another particular team leader with the name provided
+The operation failed because the user has not finished correcting the test papers.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to be vice team leader of another particular team leader whose name is provided
+The operation failed because the user has not finished correcting the test papers.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name7546895|||Reason==user wants to be changed into a vice team leader of another particular team leader named name7546895
+The operation failed because the specified user, name7546895, is not a team leader.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name7546895|||Reason==user wants to change to vice team leader of another particular team leader and provided the team leader's name.
+The operation failed because the specified name does not correspond to a team leader.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name7546895|||Reason==user wants to change to be vice team leader of another particular team leader with name provided
+The operation failed because the name provided does not correspond to a team leader.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name7546895|||Reason==user wants to change to be vice team leader of another particular team leader named name7546895
+The operation failed because the name provided (name7546895) is not recognized as a team leader.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to be vice team leader of the teacher named name2258317
+In short, the operation to change to a vice team leader under the specified team leader was executed successfully.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to be vice team leader of another particular team leader whose name is provided
+In short, the operation to change your role to vice team leader for the team led by name2258317 was executed successfully.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to be vice team leader of another particular team leader with the name name2258317
+In short, your request to be changed into a vice team leader under the specified team leader has been successfully processed.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to vice team leader of a teacher called name2258317
+In short, the command to change to be vice team leader under the specified team leader was successfully executed.
+Instruction|||Operation==ChangeAllTypesUploadLimit|||Args==50|||Reason==user wants to change upload limit and provided upload limit is 50
+The upload limit has been successfully changed to 50.
+Instruction|||Operation==ChangeAllTypesUploadLimit|||Args==50|||Reason==user wants to change upload limit and provided new limit as 50
+The upload limit has been successfully changed to 50.
+Instruction|||Operation==ChangeAllTypesUploadLimit|||Args==50|||Reason==user wants to change upload limit and provided new limit as 50
+the upload limit has been successfully changed to 50.
+Instruction|||Operation==ChangeAllTypesUploadLimit|||Args==50|||Reason==user wants to change upload limit and provided limit is 50
+The upload limit has been successfully changed to 50.
+Instruction|||Operation==ChangeAllTypesUploadLimit|||Args==114514|||Reason==user wants to change upload limit and provided the new limit as 114514
+the operation failed because the new upload limit provided (114514) exceeds the maximum allowed limit of 200 and must be a non-negative number.
+Instruction|||Operation==ChangeAllTypesUploadLimit|||Args==114514|||Reason==user wants to change upload limit and provided new limit as 114514
+the operation failed because the provided new upload limit of 114514 exceeds the maximum allowed limit of 200 and must be a non-negative number.
+Instruction|||Operation==ChangeAllTypesUploadLimit|||Args==114514|||Reason==user wants to change upload limit and provided the new limit as 114514
+the operation failed because the provided upload limit of 114514 exceeds the maximum allowed limit of 200 and must be a non-negative number.
+Instruction|||Operation==ChangeAllTypesUploadLimit|||Args==114514|||Reason==user wants to change upload limit and provided new limit as 114514
+the operation failed because the provided upload limit of 114514 exceeds the maximum allowed limit of 200. Upload limits must be non-negative and cannot be greater than 200.
+Instruction|||Operation==ChangeAllTypesSchool|||Args==schoolname954082|||Reason==user wants to change their school and provided the school name as schoolname954082
+The school change to "schoolname954082" was successful.
+Instruction|||Operation==ChangeAllTypesSchool|||Args==schoolname954082|||Reason==user wants to change their school and provided the school name as schoolname954082
+The school name has been successfully changed to schoolname954072.
+Instruction|||Operation==ChangeAllTypesSchool|||Args==schoolname954082|||Reason==user wants to change their school profile and provided the school name as schoolname954082
+your school profile has been successfully changed to schoolname954082.
+Instruction|||Operation==ChangeAllTypesSchool|||Args==schoolname954082|||Reason==user wants to change the school of the user to schoolname954082
+the school has been successfully changed to "schoolname954082" as requested.
+Instruction|||Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school by name and provide school name and area name
+The operation failed because the user is not an admin.
+Instruction|||Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school by name and provide school name and area name
+The operation failed because the user is not an admin.
+Instruction|||Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school in Tokyo called MyNewSchool
+The operation failed because the user is not an admin.
+Instruction|||Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school by name and provide school name and area name
+The operation failed because the user is not an admin.
+Instruction|||Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school by name and provide school name and area name
+The new school was successfully added with school_id 313.
+Instruction|||Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school by name and provide school name and area name
+The new school has been successfully added with the result code 313.
+Instruction|||Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school by name and provide school name and area name
+In short, the new school has been successfully added with the result ID 313.
+Instruction|||Operation==AddNewSchoolByName|||Args==MyNewSchool,Tokyo|||Reason==user wants to add a new school by name and provide school name and area name
+The new school "MyNewSchool" in Tokyo was added successfully with the result code 313.
+TYPE==Instruction|||Operation==AddNewSchoolByName|||Args==MyNewSchool,?|||Reason==user wants to add a new school but did not provide area name.
+The operation failed because the argument for the school's area name was not provided, making the information incomplete.
+Instruction|||Operation==AddNewSchoolByName|||Args==MyNewSchool,?|||Reason==user wants to add a new school but did not provide area name.
+The operation failed because the argument for the area name was not provided.
+Operation==AddNewSchoolByName|||Args==MyNewSchool,?|||Reason==user wants to add a new school but did not provide area name.
+Instruction|||Operation==AddNewSchoolByName|||Args==MyNewSchool,?|||Reason==user wants to add a new school but did not provide area name.
+The operation failed because the provided arguments were incomplete; specifically, the area name for the new school was not provided.
+Instruction|||Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user requests information about users called Andy
+the operation failed because you are not an admin and do not have the necessary rights to access the information.
+Instruction|||Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user requests information about users named Andy
+The operation failed because you are not an admin and do not have the rights to access this information in the system.
+Instruction|||Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user wants to get information about a user named Andy
+the operation failed because you are not an admin and thus do not have the required permissions to access user information in the system.
+Instruction|||Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user wants to get information about Andy
+Instruction|||Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user requests information about users named Andy
+the information for the user named Andy has been successfully retrieved. Andy is identified with an ID of 1601, operates under the nickname 'nicknameADMIN', and is associated with school ID 174. They have an upload limit of 100, are allowed 5 viewing problems, and are classified as a 'teamleader'.
+Instruction|||Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user requests information about users whose name is Andy
+In short, the information for the user named Andy has been successfully retrieved. Andy is identified with ID 1601, operates under the wechat_nickname 'nicknameADMIN', is associated with school ID 174, has an upload limit of 100, a viewing problem count of 5, and is classified as a 'teamleader'.
+Instruction|||Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user requests information about a specific user named Andy in the system
+the information about Andy reveals that they are identified with ID 1601, have the nickname 'nicknameADMIN', and are associated with school ID 174. Andy has an upload limit of 100, can view 5 problems, and is classified as a 'teamleader'.
+Instruction|||Operation==GetTeacherInfoByName|||Args==Andy|||Reason==user wants to get information about Andy
+the teacher named Andy has an ID of 1601, is associated with school ID 174, has a nickname of 'nicknameADMIN', and is classified as a 'teamleader'. Andy has an upload limit of 100 and can view 5 problems.
+Instruction|||Operation==GetTeacherInfoByName|||Args==Bob|||Reason==user wants information about users called Bob
+Instruction|||Operation==GetTeacherInfoByName|||Args==Bob|||Reason==user wants to get information about users whose name is Bob
+there is no user named Bob in the system.
+Instruction|||Operation==GetTeacherInfoByName|||Args==Bob|||Reason==user wants information about Bob, a user in the system
+In short, there is no user named Bob in the system.
+Instruction|||Operation==GetTeacherInfoByName|||Args==Bob|||Reason==user wants information about Bob
+There is no user named Bob in the system.
+Instruction|||Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants information about users in the school named schoolname344263
+the operation failed because you do not have admin rights, which are required to access this information.
+Instruction|||Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants to get information about users of a specific school named schoolname344263
+the operation failed because you are not an admin and do not have the necessary rights to access the information.
+Instruction|||Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants information about users who are in the school named schoolname344263
+the operation failed because you need to be an admin to access this information, and you do not have the necessary rights to see it.
+Instruction|||Operation==GetTeacherInfoBySchoolName|||Args==schoolname344263|||Reason==user wants information about users within a specific school and provides school name
+the operation failed because you are not an admin and do not have the necessary permissions to access this information in the system.
+Instruction|||Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change role to arbiter
+the operation to change all types to the arbiter role was successful.
+Instruction|||Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change their user type to be an arbiter
+your request to be changed to an arbiter has been successfully processed.
+Instruction|||Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to be an arbiter
+your request to change your role to an arbiter was successful.
+Instruction|||Operation==MakeAllTypesToBeArbiter|||Args==None|||Reason==user wants to change their profile to be an arbiter
+your profile has been successfully changed to an arbiter.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to be vice team leader of another particular team leader whose name is given
+In short, the command to change to be the vice team leader under the specified team leader was executed successfully.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to be vice team leader of another particular team leader whose name is name2258317
+In short, the command to change to be vice team leader under the specified team leader was executed successfully.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to be a vice team leader of another particular team leader with the name name2258317
+The operation to change your role to vice team leader under the specified team leader was executed successfully.
+Instruction|||Operation==MakeAllTypesToBeSubCoach|||Args==name2258317|||Reason==user wants to change to a vice team leader of another particular team leader whose name is provided
+The operation to change to be vice team leader under the specified team leader was executed successfully.
+Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==11|||Reason==user wants to change marking subject and provide marking subject is 11
+the operation failed because the provided marking subject, 11, is not within the allowed range of [1,2,3,4,5,6,7,8,9,10].
+Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==12|||Reason==user wants to change marking subject and provide marking subject is 12
+the operation failed because the provided marking subject, 12, is not within the allowed range of [1,2,3,4,5,6,7,8,9,10].
+Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==12|||Reason==user wants to change viewing problem and provided the problem index as 12
+The operation failed because the marking subject number must be between 1 and 10, but you provided 12.
+Instruction|||Operation==ChangeAllTypesMarkingSubject|||Args==11|||Reason==user wants to change marking subject and provided marking subject is 11
+the operation failed because the marking subject provided, which is 11, is not within the allowed range of [1,2,3,4,5,6,7,8,9,10].
