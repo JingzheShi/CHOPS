@@ -126,6 +126,6 @@ We provide all .csv result files and .txt log files can be found in `result` dir
 
 # Results Measured
 
-![experiment result](figures/ablations.png)
+![experiment result](figures/ablations.pdf)
 
 Please refer to the [[paper](https://arxiv.org/abs/2404.01343)] for more details.
